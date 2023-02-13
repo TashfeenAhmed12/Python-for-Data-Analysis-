@@ -35,6 +35,5 @@ pandas
 Task #11: perform concatenating and merging
 with pandas
 
-Task #12: project and concluding remarks
 
 
